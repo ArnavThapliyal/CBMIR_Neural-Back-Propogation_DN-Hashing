@@ -1,4 +1,4 @@
-# CBMIR_Neural-Back-Propogation_DN-Hashing
+# CBMIR_Neural-Back-Propogation_Deep_Neural-Hashing
 
 In our human brain there are about 100-1,000 trillion synaps each having connections upto 10,000 other neurons.(arXiv:1906.01703 [q-bio.NC])
 
